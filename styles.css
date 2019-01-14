@@ -142,6 +142,10 @@ header {
   padding: 300px 0;
 }
 
+.power-style h1 {
+  font-size: 3em;
+}
+
 #power-col .ul-style {
   line-height: 1.5;
   font-size: 25px;
@@ -199,6 +203,10 @@ header {
   width: 20%;
   margin: 7% 17% 12% 20%;
   position: absolute;
+}
+
+.what-is-style h1 {
+  font-size: 3em;
 }
 
 .what-is-style p {
